@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruby pilakhwal</h1>
-<h3 align="center">I'm passionate about android development</h3>
+<h3 align="center">I'm passionate about web development</h3>
 
-- 🌱 I’m currently learning **frontend**
+- 🌱 I’m currently learning **Backend**
 
 - 📫 How to reach me **rubypilkhwal04@gmail.com**
 
